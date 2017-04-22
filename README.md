@@ -14,6 +14,9 @@ This is a apí to register programming challenge problems and create teams to so
 
 
 #RUN
+## with activator 
+* activator
+* runAll
 
-activator
-runAll
+## with sbt
+* sbt runAll
