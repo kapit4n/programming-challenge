@@ -20,3 +20,6 @@ This is a apí to register programming challenge problems and create teams to so
 
 ## with sbt
 * sbt runAll
+
+# Test
+* http://localhost:9000/api/hello/ME
