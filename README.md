@@ -13,7 +13,7 @@ This is a apí to register programming challenge problems and create teams to so
 * logout/
 
 
-#RUN
+# RUN
 ## with activator 
 * activator
 * runAll
